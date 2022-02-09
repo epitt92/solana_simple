@@ -1,0 +1,12 @@
+/home/ubuntu/solana/solana_simple/example1/target/release/deps/proc_macro2-697ed05a245ffe1e.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/home/ubuntu/solana/solana_simple/example1/target/release/deps/libproc_macro2-697ed05a245ffe1e.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/home/ubuntu/solana/solana_simple/example1/target/release/deps/proc_macro2-697ed05a245ffe1e.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs:

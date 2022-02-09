@@ -1,0 +1,19 @@
+/home/ubuntu/solana/solana_simple/example1/target/release/deps/librustversion-734f5e8b16b1f9a4.so: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/ubuntu/solana/solana_simple/example1/target/release/build/rustversion-9b1f8e6f24a6a21c/out/version.rs
+
+/home/ubuntu/solana/solana_simple/example1/target/release/deps/rustversion-734f5e8b16b1f9a4.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/ubuntu/solana/solana_simple/example1/target/release/build/rustversion-9b1f8e6f24a6a21c/out/version.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs:
+/home/ubuntu/solana/solana_simple/example1/target/release/build/rustversion-9b1f8e6f24a6a21c/out/version.rs:
+
+# env-dep:OUT_DIR=/home/ubuntu/solana/solana_simple/example1/target/release/build/rustversion-9b1f8e6f24a6a21c/out

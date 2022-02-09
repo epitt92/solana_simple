@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ubuntu/solana/solana_simple/example1/target/release/build/typenum-30d90c86efe681c1/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ubuntu/solana/solana_simple/example1/target/release/build/typenum-30d90c86efe681c1/out/op.rs

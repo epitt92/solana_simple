@@ -1,0 +1,12 @@
+/home/ubuntu/solana/solana_simple/example1/target/bpfel-unknown-unknown/release/deps/sha2-13ac3c730fc2a69f.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/home/ubuntu/solana/solana_simple/example1/target/bpfel-unknown-unknown/release/deps/libsha2-13ac3c730fc2a69f.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/home/ubuntu/solana/solana_simple/example1/target/bpfel-unknown-unknown/release/deps/sha2-13ac3c730fc2a69f.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs:
