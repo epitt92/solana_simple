@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from 'react';
-import { Connection, PublicKey } from '@solana/web3.js';
+import { Connection, PublicKey, clusterApiUrl } from '@solana/web3.js';
 import {
   Program, Provider, web3
 } from '@project-serum/anchor';
@@ -23,14 +23,14 @@ const opts = {
 }
 const programID = new PublicKey(idl.metadata.address);
 
+const network = clusterApiUrl('testnet');
+
 function App() {
   const [value, setValue] = useState(null);
   const wallet = useWallet();
-
   async function getProvider() {
-    /* create the provider and return it to the caller */
-    /* network set to local network for now */
-    const network = "https://api.testnet.solana.com";
+
+    // const network = "https://api.testnet.solana.com";
     const connection = new Connection(network, opts.preflightCommitment);
 
     const provider = new Provider(
@@ -40,9 +40,12 @@ function App() {
   }
 
   async function createCounter() {    
+    console.log('started')
     const provider = await getProvider()
     /* create the program interface combining the idl, program ID, and provider */
     const program = new Program(idl, programID, provider);
+    console.log(program.programId)
+
     try {
       /* interact with the program via rpc */
       await program.rpc.create({
@@ -108,7 +111,7 @@ function App() {
 }
 
 const AppWithProvider = () => (
-  <ConnectionProvider endpoint="http://127.0.0.1:8899">
+  <ConnectionProvider endpoint={network}>
     <WalletProvider wallets={wallets} autoConnect>
       <WalletModalProvider>
         <App />
